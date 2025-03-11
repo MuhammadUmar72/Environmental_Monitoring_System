@@ -1,0 +1,2 @@
+gcc main.c api_handler.c json_parser.c processor.c -o EMS -lcurl -ljson-c
+

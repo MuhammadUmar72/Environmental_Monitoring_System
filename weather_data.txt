@@ -1,0 +1,7 @@
+-----------------------------{Weather Report for Karachi}-----------------------------
+
+ Temperature: 18.90°C
+ Feels like Temperature: 18.86°C
+ Humidity: 77%
+ Condition: smoke
+ Wind: 1.00 m/s at 1°
